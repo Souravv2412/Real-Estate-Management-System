@@ -131,9 +131,9 @@ We express sincere gratitude to:
 ## 📞 Contact & Links
 
 **Live Application:** [https://realestatee.infinityfreeapp.com/](https://realestatee.infinityfreeapp.com/)  
-**Portfolio:** [Your Portfolio Link]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** [Your Email Address]
+**Portfolio:** https://souravv2412.github.io/Souravv2412-Souravdeep-Portfolio-Website/
+**LinkedIn:** https://www.linkedin.com/in/sourav2312/
+**Email:** singh.s.deep800@gmail.com
 
 ---
 
